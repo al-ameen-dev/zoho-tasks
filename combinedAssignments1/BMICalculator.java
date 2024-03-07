@@ -3,6 +3,12 @@ package combinedAssignments1;
 import java.util.*;
 
 public class BMICalculator {
+    /*
+     * This program compute the 'N' peoples BMI and compare their values.
+     * Then print the name and value of the person in descending order.
+     * It compares the calculated BMI value of each person .
+     * Then sort based on the BMI value.
+     */
     public static void main(String[] args) {
         List<BMI> bmilist = new ArrayList<>();
         String name;
