@@ -10,6 +10,6 @@ public class ScopeOfVariable {
         Unresolved compilation problem: 
         b cannot be resolved to a variable at ScopeOfVariable.main(ScopeOfVariable.java:9)
         */
-        //System.out.println(b);
+        System.out.println(b);
     }
 }

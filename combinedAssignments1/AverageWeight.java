@@ -1,4 +1,4 @@
-package combined_assignments1;
+package combinedAssignments1;
 import java.util.*;
 
 public class AverageWeight {
