@@ -1,4 +1,4 @@
-package recursion1;
+package march5tasks;
 
 public class Array6 {
     public static boolean array6(int[] nums, int index) {
