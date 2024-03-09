@@ -1,7 +1,7 @@
 package Assignment1DataTypes;
 import java.util.*;
 
-public class WeekDay {
+public class Program2 {
     enum DAYS
     {
         MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY,SUNDAY
