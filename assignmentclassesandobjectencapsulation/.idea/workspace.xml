@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0fddebde-4f75-446d-a0c9-9227309a7f9c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../assignment6strings/Program2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/LibraryManagement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/admin/AdminModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/admin/AdminView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/customer/CustomerModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/customer/CustomerView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/db/LibraryDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/homepage/HomePageModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/homepage/HomePageView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/issuebooks/IssueBooksModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/issuebooks/IssueBooksView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/librarysetup/LibrarySetupModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/librarysetup/LibrarySetupView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/login/LoginModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/login/LoginView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/managebook/ManageBookModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/managebook/ManageBookView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/model/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/model/Book$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/model/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/model/Credentials$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/model/Credentials.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/model/Customer$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/model/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/model/IssuedBooks$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/model/IssuedBooks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/model/Library$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/com/alameendev/librarymanagement/model/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/booklist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/LibraryManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/admin/AdminModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/admin/AdminView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/customer/CustomerModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/customer/CustomerView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/db/LibraryDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/homepage/HomePageModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/homepage/HomePageView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/issuebooks/IssueBooksModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/issuebooks/IssueBooksView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/librarysetup/LibrarySetupModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/librarysetup/LibrarySetupView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/login/LoginModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/login/LoginView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/managebook/ManageBookModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/managebook/ManageBookView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/model/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/model/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/model/Credentials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/model/IssuedBooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/com/alameendev/librarymanagement/model/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibraryManagement/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercism/SquekyClean.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2e7kKDietawfyra5JhyPfVYXc6X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ZOHO_CURRENT/zoho-tasks/assignmentclassesandobjectencapsulation&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fddebde-4f75-446d-a0c9-9227309a7f9c" name="Changes" comment="" />
+      <created>1711262937573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711262937573</updated>
+    </task>
+    <servers />
+  </component>
+</project>
