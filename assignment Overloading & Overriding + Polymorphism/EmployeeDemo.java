@@ -11,6 +11,7 @@ abstract class Employee{
         this.email = email;
         this.salary = salary;
     }
+
     abstract public void getEmployeeDetails();
 }
 
@@ -42,8 +43,8 @@ class SalariedEmployee extends Employee{
 
 public class EmployeeDemo {
     public static void main(String[] args) {
-        Employee salaridEmployee = new SalariedEmployee("al ameen",22,"8768578547","al@gmail.com",40000);
-        Employee hourlyEmployee = new SalariedEmployee("ameen",21,"8876578547","ameen@gmail.com",20000);
+        Employee salariedEmployee = new SalariedEmployee("al ameen",22,"8768578547","al@gmail.com",40000);
+        Employee hourlyEmployee = new HourlyEmployee("ameen",21,"8876578547","ameen@gmail.com",20000);
         salaridEmployee.getEmployeeDetails();
         hourlyEmployee.getEmployeeDetails();
     }
