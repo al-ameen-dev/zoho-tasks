@@ -1,6 +1,9 @@
 package Assignment2OperatorsExpressions;
 import java.util.*;
 
+/*
+Write a program to calculate a person's Body Mass Index on user input for weight and height. Get BMI formula from the internet.
+ */
 public class Program4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

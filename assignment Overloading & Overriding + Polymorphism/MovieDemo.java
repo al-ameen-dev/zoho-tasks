@@ -1,4 +1,8 @@
 
+/*
+Create hierarchy from Movie class with Child classes of different genre movies like RomComMovie, ThrillerMovie, etc.
+ Demonstrate polymorphism using them.
+ */
 class Movie {
     private String title;
     private int duration;

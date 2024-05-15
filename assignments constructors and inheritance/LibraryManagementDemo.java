@@ -1,6 +1,9 @@
 
 import java.util.List;
 
+/*
+ Create classes for the given class diagram - https://www.geeksforgeeks.org/class-diagram-for-library-management-system/
+ */
 class User {
     private String Name;
     private int id;

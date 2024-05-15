@@ -1,6 +1,9 @@
 package Assignment2OperatorsExpressions;
 import java.util.*;
 
+/*
+Get two numbers from user and perform bitwise AND< OR, XOR, left and right shift operations on them.
+ */
 public class Program3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

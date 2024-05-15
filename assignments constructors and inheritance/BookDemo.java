@@ -2,6 +2,10 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
+/*
+Add a constructor to the Book class alreday created.
+Write a function to add books using constructors to an array of <Book> objects, and display all the books added.
+ */
 class Book {
 
     private long bookId;

@@ -1,6 +1,9 @@
 package Assignment4UnconditionalStatements;
 import java.util.*;;
 
+/*
+Write a program to find the sum of even numbers only in a given array. Use continue.
+ */
 public class Program3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

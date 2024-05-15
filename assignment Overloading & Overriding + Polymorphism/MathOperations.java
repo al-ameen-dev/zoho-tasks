@@ -1,3 +1,8 @@
+
+/*
+Create a Java class MathOperations with methods for basic mathematical operations such as add() , subtract() , multiply() , and divide() .
+Implement method overloading to allow these operations for integers, doubles, and optionally, other types.
+ */
 public class MathOperations {
 
     public short add(short a, short b) {

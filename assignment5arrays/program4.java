@@ -2,6 +2,10 @@ package assignment5arrays;
 
 import java.util.Scanner;
 
+/*
+ Write a program to generate the matrix with integers in spiral order.
+ Get size N from the user and generate an NxN spiral matrix.
+ */
 public class program4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

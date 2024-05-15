@@ -1,5 +1,7 @@
 package Assignment1DataTypes;
-
+/*
+ Create multiple classes in single file and compile and explore how many .class files are generated.
+ */
 public class Program4 {
     public static void main(String[] args) {
         System.out.println("The class created is:"+Program4.class.getName());

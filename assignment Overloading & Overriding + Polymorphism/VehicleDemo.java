@@ -1,3 +1,7 @@
+
+/*
+In Vehicle hierarchy, add methods like start and stop in Vehicle and override them in Child classes.
+ */
 class Vehicle {
     String name;
     int noOfWheels;

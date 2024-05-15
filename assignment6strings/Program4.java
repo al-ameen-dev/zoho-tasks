@@ -2,6 +2,10 @@ package assignment6string;
 
 import java.util.Scanner;
 
+/*
+Write a program to validate email address (contains @ and proper domain format).
+Note: Don't use regular expressions
+ */
 public class Program4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

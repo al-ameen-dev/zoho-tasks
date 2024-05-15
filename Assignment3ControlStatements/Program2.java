@@ -1,6 +1,9 @@
 package Assignment3ControlStatements;
 import java.util.*;
 
+/*
+Write a Java program to find the number of days in a given month and year.
+ */
 public class Program2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

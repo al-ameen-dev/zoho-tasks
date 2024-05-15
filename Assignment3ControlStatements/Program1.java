@@ -1,6 +1,9 @@
 package Assignment3ControlStatements;
 import java.util.*;
 
+/*
+ Take three numbers from the user and print the greatest number.
+ */
 public class Program1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

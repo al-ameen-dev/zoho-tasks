@@ -1,3 +1,8 @@
+
+/*
+ Write a hierarchy of geometric shape classes 'Circle', 'Rectangle', etc inherited from a common base class 'Shape'
+ */
+
 abstract class Shape{
     public abstract double area();
     public abstract double perimeter();

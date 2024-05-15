@@ -2,6 +2,9 @@ package assignment6string;
 
 import java.util.Scanner;
 
+/*
+Write a program to capitalize the first letter of each words in a sentence.
+ */
 public class Program5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

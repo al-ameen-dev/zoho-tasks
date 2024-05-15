@@ -1,3 +1,6 @@
+/*
+ Create Vehicle Hierarchy.
+ */
 class Vehicle {
     String name;
     int noOfWheels;

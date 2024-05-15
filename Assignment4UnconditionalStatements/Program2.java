@@ -1,5 +1,8 @@
 package Assignment4UnconditionalStatements;
 
+/*
+Write a program to print prime numbers between 1 to 30.
+ */
 public class Program2 {
     public static void main(String[] args) {
         System.out.println("prime numbers between 1 to 30:");

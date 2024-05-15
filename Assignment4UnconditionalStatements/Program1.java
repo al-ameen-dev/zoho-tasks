@@ -1,6 +1,14 @@
 package Assignment4UnconditionalStatements;
 import java.util.*;
 
+/*
+ Write a function to return index in which the given number occurs for the second time in an array, -1 if not present for the second time.
+Input:
+Array: [2,3,4,2,8,7]
+Number: 2
+Output: 3
+Explanation: '2' occurs in 3rd index for the second time
+ */
 public class Program1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

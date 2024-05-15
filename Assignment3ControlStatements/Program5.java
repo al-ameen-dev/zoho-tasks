@@ -1,6 +1,9 @@
 package Assignment3ControlStatements;
 import java.util.*;
 
+/*
+Write a program to print factorial of a given number using loop.
+ */
 public class Program5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

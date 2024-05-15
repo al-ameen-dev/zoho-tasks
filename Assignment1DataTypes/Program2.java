@@ -1,6 +1,8 @@
 package Assignment1DataTypes;
 import java.util.*;
-
+/*
+Write a Java program that gets a number from the user and displays the name of the weekday. Use enum.
+ */
 public class Program2 {
     enum DAYS
     {
